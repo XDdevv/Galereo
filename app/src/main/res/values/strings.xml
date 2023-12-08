@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GalleryOfSky</string>
+    <string name="todo">TODO</string>
+    <string name="il_mio_cielo">il mio cielo</string>
+    <string name="password">Password</string>
+    <string name="check">Check</string>
+</resources>

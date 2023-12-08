@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "270910916564",
+    "project_id": "gallereo-299a8",
+    "storage_bucket": "gallereo-299a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270910916564:android:8d0f8e4949393af5c0f841",
+        "android_client_info": {
+          "package_name": "uz.xd.galleryofsky"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNL8vjKlR-zi9vLUIRxM-HesMX2Cc52vk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
